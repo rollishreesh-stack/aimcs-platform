@@ -512,4 +512,87 @@ transition:.3s;
 
 transform:translateY(-4px);
 
+} .submission-container{
+
+padding:100px 10%;
+
+max-width:1000px;
+
+margin:auto;
+
+}
+
+
+.submission-container h2{
+
+font-size:45px;
+
+text-align:center;
+
+margin-bottom:50px;
+
+}
+
+
+
+.submission-form{
+
+display:flex;
+
+flex-direction:column;
+
+gap:18px;
+
+background:white;
+
+padding:50px;
+
+border-radius:25px;
+
+box-shadow:0 20px 50px rgba(0,0,0,0.08);
+
+}
+
+
+
+.submission-form label{
+
+font-weight:600;
+
+margin-top:10px;
+
+}
+
+
+
+.submission-form input,
+.submission-form select,
+.submission-form textarea{
+
+padding:18px;
+
+border:1px solid #dbe3ef;
+
+border-radius:12px;
+
+font-size:16px;
+
+}
+
+
+
+.submission-form textarea{
+
+height:180px;
+
+resize:none;
+
+}
+
+
+
+.submission-form button{
+
+margin-top:25px;
+
 }
