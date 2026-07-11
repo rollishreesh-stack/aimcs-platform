@@ -170,20 +170,28 @@ color:#8ea9bd;
 
 nav{
 flex-direction:column;
-gap:20px;
 }
 
-nav ul{
-flex-wrap:wrap;
-justify-content:center;
 }
 
-.hero h1{
-font-size:42px;
+.hero button{
+
+margin-top:40px;
+
 }
 
-.hero p{
-font-size:18px;
+
+.about{
+
+max-width:1100px;
+
+margin:auto;
+
 }
+
+
+.about p{
+
+margin-top:25px;
 
 }
