@@ -195,3 +195,86 @@ margin:auto;
 margin-top:25px;
 
 }
+
+
+/* Submission Page */
+
+.submission-form{
+
+padding:80px 8%;
+
+max-width:900px;
+
+margin:auto;
+
+}
+
+
+
+.submission-form h2{
+
+font-size:45px;
+
+text-align:center;
+
+margin-bottom:40px;
+
+}
+
+
+
+.submission-form form{
+
+display:flex;
+
+flex-direction:column;
+
+gap:15px;
+
+background:rgba(255,255,255,0.05);
+
+padding:40px;
+
+border-radius:20px;
+
+}
+
+
+
+.submission-form input,
+.submission-form select,
+.submission-form textarea{
+
+padding:18px;
+
+border-radius:10px;
+
+border:none;
+
+background:#10253a;
+
+color:white;
+
+font-size:16px;
+
+}
+
+
+
+.submission-form textarea{
+
+height:150px;
+
+resize:none;
+
+}
+
+
+
+.submission-form label{
+
+margin-top:15px;
+
+font-weight:600;
+
+}
